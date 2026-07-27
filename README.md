@@ -8,7 +8,7 @@
 
 ## 🔗 Project Links
 
-- 🎨 **Figma Design:** [View the Figma Project]([PASTE-YOUR-FIGMA-LINK-HERE](https://www.figma.com/design/oRXEVcpNuFvjJbtq1kweN2/Sabeeka-Zaidi?node-id=97-18&t=N9O5tXhEruz5Ig4J-1))
+- 🎨 **Figma Design:** [View the Figma Project](https://www.figma.com/design/oRXEVcpNuFvjJbtq1kweN2/Sabeeka-Zaidi?node-id=97-18&t=N9O5tXhEruz5Ig4J-1)
 ---
 
 ## 📌 Project Overview
