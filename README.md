@@ -2,7 +2,7 @@
 
 > A modern e-commerce platform designed to connect customers with independent jewellery designers and provide a seamless shopping experience for unique, handcrafted pieces.
 
-![Jewel Collective Cover](Images/cover.png)
+![Jewel Collective Cover](cover.png)
 
 ---
 
