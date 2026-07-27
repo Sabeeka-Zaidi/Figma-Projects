@@ -68,6 +68,7 @@ The platform also caters to:
 - Retailers interested in wholesale opportunities
 - Customers interested in independent designers
 
+![Jewel Collective Cover](personas.png)
 ---
 
 # 🔎 Problem Statement
@@ -112,4 +113,7 @@ The website did not provide an efficient way for customers to discover new desig
 **6. Weak Brand Experience**
 
 The previous design did not strongly communicate the craftsmanship, elegance, uniqueness, and premium nature of the brand.
+
+### Site Map
+![Jewel Collective Cover](sitemap.png)
 
