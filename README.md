@@ -113,7 +113,3 @@ The website did not provide an efficient way for customers to discover new desig
 
 The previous design did not strongly communicate the craftsmanship, elegance, uniqueness, and premium nature of the brand.
 
-
-
-    ├── Shopping Cart
-    └── Checkout
